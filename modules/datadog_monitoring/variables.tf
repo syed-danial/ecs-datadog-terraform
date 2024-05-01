@@ -1,0 +1,3 @@
+variable "monitor_settings" {
+  
+}
